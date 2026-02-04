@@ -45,15 +45,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosin-23&show_icons=true&theme=radical&cache_seconds=1800" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=mosin-23&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosin-23&layout=compact&theme=dracula" />
-</p>
 

@@ -50,9 +50,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosin-23&show_icons=true&theme=radical" alt="Mosin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mosin-23&show_icons=true&theme=radical&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosin-23&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mosin-23&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosin-23&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosin-23&layout=compact&theme=dracula" />
 </p>
+
